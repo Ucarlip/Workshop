@@ -15,10 +15,10 @@ def calaveragegrade (grade1,grade2,grade3) :
     return averagegrade
 def showcalaveragegrade () :
     print(f'ชื่อนักศึกษา {name} ')
-    print(f'รหัสนักศึกษา {name} ')
+    print(f'รหัสนักศึกษา {idstuden} ')
     print(f'คะเเนนเฉลี่ยสะสมนักศึกษา {averagegrade} ')
 def Showprogramname() :
-    print('---**Programname**---')
+    print('---**คำนวนคะเเนนเฉลี่ยสามเทอม**---')
 
 print('-------------------------------')
 Showprogramname( )
